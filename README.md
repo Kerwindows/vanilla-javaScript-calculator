@@ -1,2 +1,7 @@
 # vanilla-javaScript-calculator
- Vanilla JavaScript Calculator
+
+**Link to Project**
+
+- [View Live](https://kerwindows.github.io/vanilla-javaScript-calculator/)
+
+
